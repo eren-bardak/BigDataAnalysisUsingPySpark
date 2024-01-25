@@ -5,7 +5,7 @@ In the evolving landscape of e-commerce, online retailers can expand local busin
 
 This dataset contains Invoice details, StockCodes, Product Descriptions, Quantity, Invoice Dates, Prices, Customer IDs, and Country. In the overview of our project, we delve into data analysis and insights across three significant dimensions of our dataset: Country, Product, and Customer. This detailed understanding could provide the company with a comprehensive understanding of its operations and customer interactions.
 
-- Example from the notebook:
+- An example from the notebook:
 
   Customer Segmentation (Pie Chart)
 Analyzing the revenue contribution from an online store's customers, it is evident that a small fraction of clients, the top 5, are responsible for a substantial portion of the revenue, making up approximately 22% of total sales. This significant concentration of spending within such a limited customer base suggests a heavy reliance on these top spenders, underlining the quintessential Pareto Principle, or the 80/20 rule, where a small percentage of customers generate a large percentage of revenue. It highlights the importance of customer loyalty programs and personalized marketing strategies to maintain the business these key clients provide.
