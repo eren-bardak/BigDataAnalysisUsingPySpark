@@ -17,3 +17,7 @@
 - Next Step Project Goals
 
   The primary objective of this project is to further the exploratory data analysis (EDA) performed on the online store's data using PySpark. Thus far, we have revealed insights related to the store's total revenue, customer demographics by country, key revenue-generating customers, popular products, product performance, and sales distribution across various regions. The forthcoming phase involves developing a refined data processing workflow, utilizing Spark’s robust data handling and the GPT API’s product classification based on textual descriptions. Such categorization will facilitate a structured organization of products and enable a detailed examination of sales patterns within each product group. Our goal is to provide the online store with an enhanced perspective on their product turnover, pinpointing in-demand products and their seasonal trends. This might help an online store better manage their stock and plan their sales promotions, without jumping right into complex sales forecasting.
+  
+
+Data citation: Chen,Daqing. (2019). Online Retail II. UCI Machine Learning Repository. 
+https://doi.org/10.24432/C5CG6D.
