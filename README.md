@@ -14,5 +14,4 @@
   
 
 ## Data citation: 
-Chen,Daqing. (2019). Online Retail II. UCI Machine Learning Repository. 
-https://doi.org/10.24432/C5CG6D.
+Chen, D. (2019). Online Retail II. UCI Machine Learning Repository. Retrieved from https://doi.org/10.24432/C5CG6D
