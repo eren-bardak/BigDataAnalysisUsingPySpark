@@ -1,4 +1,4 @@
-# Big Data Analysis Using PySpark
+# <h1 align="center">Big Data Analysis Using PySpark</h1>
 
 - Credits: <a href="https://github.com/ytyx">Emily Yin</a>, <a href="https://github.com/138905247">Cindy Fang</a>, Eren Bardak
 
